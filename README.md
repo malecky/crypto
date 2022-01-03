@@ -7,13 +7,13 @@
 - KuCoin https://www.kucoin.com
 - FTX https://ftx.com
 
-## Basic analitics
+## Basics analytics tools
 
 - CoinGecko https://www.coingecko.com ⭐
 - CoinMarketCap https://coinmarketcap.com ⭐
 - Coin360 https://coin360.com
 
-## Onchain data analitics
+## Onchain data analytics tools
 
 - Glassnode https://glassnode.com ⭐
 
