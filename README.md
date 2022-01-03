@@ -11,6 +11,7 @@
 
 - CoinGecko https://www.coingecko.com ⭐
 - CoinMarketCap https://coinmarketcap.com ⭐
+- TradingView https://www.tradingview.com ⭐
 - Coin360 https://coin360.com
 
 ## Onchain data analytics tools
